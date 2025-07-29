@@ -167,19 +167,13 @@ With Level 5 → Value = `1.0 + 0.1 * 5 = 1.5x`
 
 ## 📝 License
 
-This upgrade system is open for use in any **personal** or **commercial** Unity project. Attribution appreciated but not required.
+This upgrade system is open for use in any **personal** or **commercial** Unity project. Attribution appreciated.
 
 ---
 
 ## 🤝 Contributing
 
 If you'd like to contribute improvements (e.g., adding saving via `ScriptableObject`, Undo support, or UI prefab templates), feel free to fork and submit a PR.
-
----
-
-## 📷 Preview (optional)
-
-> Add screenshot of the UI in action here
 
 ---
 
